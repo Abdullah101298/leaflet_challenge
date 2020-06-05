@@ -13,15 +13,18 @@ In this project, we will explore earthquakes around the world in the past 24 hrs
 
 2. Import & Visualize the Data
 
-     <ul> Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and                   latitude. </ul>
+     <ul> 
+     
+          <li> Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and                  latitude. </li>
 
 
-     <ul> Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes               should appear larger and darker in color. </ul>
+          <li> Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher                           magnitudes should appear larger and darker in color. </li>
 
 
-     <ul> Include popups that provide additional information about the earthquake when a marker is clicked. </ul>
+          <li> Include popups that provide additional information about the earthquake when a marker is clicked. </li>
 
 
-     <ul> Create a legend that will provide context for your map data.  </ul>
+          <li> Create a legend that will provide context for your map data.  </li>
 
+     </ul>
 
