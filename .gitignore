@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-config.js
+"config.js"
 
 # C extensions
 *.so
